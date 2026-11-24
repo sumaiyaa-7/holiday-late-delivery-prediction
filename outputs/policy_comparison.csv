@@ -1,0 +1,6 @@
+policy,setting,expedites,reroutes,notices,action_spend,late_promises,on_time_rate,loss_from_missed_promises,total_cost,wasted_actions_pct,net_benefit_vs_nothing,promises_rescued,cost_per_promise_rescued,saving_vs_rule,saving_vs_rule_95ci
+A. Do nothing,,0,0,0,0.0,770,0.9244,26852.7788,26852.7788,0.0,0.0,0,,17175.6038,
+B. Rule: fix everything not shipped at D-2,,635,1226,0,30433.0,399,0.9608,13595.3826,44028.3826,0.7098,-17175.6038,371,82.0296,0.0,
+"C. Model top-k: fix if possible, else notify",,79,1117,665,21978.5,419,0.9589,13704.9787,35683.4787,0.6711,-8830.6999,351,62.6168,8344.9039,
+D. Expected-loss rule: lowest total cost,,25,71,1540,2360.0,705,0.9308,17487.5917,19847.5917,0.6498,7005.1871,65,36.3077,24180.7909,"$22,833 to $25,595"
+E. Best on-time rate at no extra total cost,PD >= 0.15,64,481,159,9990.5,462,0.9546,15517.4799,25507.9799,0.2614,1344.7989,308,32.4367,18520.4027,"$17,325 to $19,757"

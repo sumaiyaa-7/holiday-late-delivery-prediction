@@ -1,0 +1,28 @@
+feature,coef,odds_ratio
+planned_transit,1.668,5.301
+stage_not allocated,0.869,2.384
+stage_packed,0.843,2.324
+carrier_known_not yet,0.395,1.485
+dc_backlog_ratio,0.328,1.388
+days_open,0.323,1.381
+days_to_promise,0.186,1.205
+not_alloc_x_asia,0.118,1.126
+tender_rejected_known,0.083,1.086
+category_Toys,0.053,1.055
+category_Electronics,-0.057,0.944
+ship_speed_Standard,-0.092,0.912
+carrier_known_BlueLine Freight,-0.125,0.883
+category_Home & Kitchen,-0.224,0.799
+dc_TX,-0.242,0.785
+category_Beauty & Gift Sets,-0.257,0.773
+carrier_known_ParcelOne,-0.307,0.736
+category_Apparel,-0.319,0.727
+sourcing_Domestic,-0.328,0.72
+carrier_known_Regional Express,-0.361,0.697
+carrier_known_SwiftShip,-0.408,0.665
+stage_allocated,-0.474,0.623
+sourcing_Asia,-0.476,0.621
+dc_NJ,-0.563,0.57
+ship_speed_Express,-0.712,0.491
+days_since_ship,-2.035,0.131
+stage_shipped,-2.043,0.13

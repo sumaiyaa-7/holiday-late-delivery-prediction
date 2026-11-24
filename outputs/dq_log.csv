@@ -1,0 +1,10 @@
+check,table,rows_checked,rows_flagged,pct_flagged,action
+DUPLICATE_ORDER_ROW,orders,25737,380,0.0148,"dropped repeat rows, kept first"
+DUPLICATE_EVENT,shipment_events,151440,507,0.0033,kept earliest scan of each type
+PACKED_BEFORE_PICKED,shipment_events,25357,253,0.01,swapped the two timestamps
+DELIVERED_BEFORE_SHIPPED,shipment_events,24908,126,0.0051,delivery time set to unknown
+MISSING_SHIPPED_SCAN,shipment_events,25357,760,0.03,imputed = PACKED + median gap (0 days 07:24:39)
+MISSING_DELIVERED_SCAN,shipment_events,25357,449,0.0177,"delivery unknown: excluded from on-time KPIs, bounded in sensitivity check"
+QTY_SHIPPED_TOO_HIGH,shipments,25357,76,0.003,capped at qty ordered
+NEGATIVE_FREIGHT,shipments,25357,76,0.003,set to median freight of same carrier
+ORPHAN_CLAIM,claims,503,10,0.0199,quarantined for manual match

@@ -1,0 +1,11 @@
+dc,category,delivered,late_orders,late_rate,std_residual,hotspot,late_ci_low,late_ci_high,late_rating
+NJ,Apparel,1642,120,0.0731,-3.24,False,0.0615,0.0867,RED
+NJ,Beauty & Gift Sets,1424,98,0.0688,-3.53,False,0.0568,0.0832,RED
+NJ,Electronics,2104,204,0.097,-0.17,False,0.085,0.1103,RED
+NJ,Home & Kitchen,1299,128,0.0985,0.05,False,0.0835,0.1159,RED
+NJ,Toys,1974,148,0.075,-3.28,False,0.0642,0.0874,RED
+TX,Apparel,1406,81,0.0576,-4.85,False,0.0466,0.071,AMBER
+TX,Beauty & Gift Sets,1095,63,0.0575,-4.29,False,0.0452,0.0729,AMBER
+TX,Electronics,1633,143,0.0876,-1.36,False,0.0748,0.1023,RED
+TX,Home & Kitchen,979,81,0.0827,-1.54,False,0.0671,0.1017,RED
+TX,Toys,1558,417,0.2677,21.36,True,0.2463,0.2902,RED

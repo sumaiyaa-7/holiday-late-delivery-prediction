@@ -1,0 +1,99 @@
+order_id,dc,category,carrier,ship_speed,promised_date,order_value,stage_at_decision,pd,loss_if_missed,expected_loss,el_action,fix_cost
+NP022461,NJ,Electronics,ParcelOne,Standard,2026-12-20,189.06,not allocated,0.954,83.218,79.427,REROUTE,20.0
+NP022125,TX,Beauty & Gift Sets,BlueLine Freight,Standard,2026-12-20,93.68,not allocated,0.952,54.604,51.977,REROUTE,15.0
+NP022066,NJ,Electronics,BlueLine Freight,Standard,2026-12-20,330.67,shipped,0.355,125.701,44.624,NOTICE,14.0
+NP022744,TX,Electronics,ParcelOne,Standard,2026-12-20,355.44,shipped,0.306,133.132,40.794,NOTICE,14.0
+NP022421,NJ,Apparel,Regional Express,Standard,2026-12-20,55.89,not allocated,0.942,43.267,40.774,REROUTE,15.0
+NP023122,TX,Toys,ParcelOne,Standard,2026-12-20,62.87,not allocated,0.766,45.361,34.761,NOTICE,18.0
+NP023285,NJ,Beauty & Gift Sets,ParcelOne,Standard,2026-12-20,93.68,not allocated,0.626,54.604,34.183,NOTICE,15.0
+NP021852,TX,Toys,SwiftShip,Standard,2026-12-20,41.05,shipped,0.792,38.815,30.734,NOTICE,12.0
+NP022143,NJ,Beauty & Gift Sets,SwiftShip,Standard,2026-12-20,19.18,not allocated,0.936,32.254,30.198,NOTICE,15.0
+NP021989,TX,Beauty & Gift Sets,BlueLine Freight,Standard,2026-12-20,28.85,shipped,0.826,35.155,29.021,NOTICE,9.0
+NP023282,TX,Apparel,ParcelOne,Standard,2026-12-20,42.75,not allocated,0.734,39.325,28.884,NOTICE,15.0
+NP023183,NJ,Toys,ParcelOne,Standard,2026-12-20,23.68,not allocated,0.757,33.604,25.446,NOTICE,18.0
+NP024297,NJ,Electronics,Regional Express,Express,2026-12-20,534.12,not allocated,0.128,186.736,23.827,NOTICE,20.0
+NP022313,NJ,Toys,ParcelOne,Standard,2026-12-20,188.61,shipped,0.286,83.083,23.733,NOTICE,12.0
+NP023363,NJ,Toys,Regional Express,Standard,2026-12-20,47.36,packed,0.565,40.708,22.985,NOTICE,12.0
+NP021876,TX,Electronics,ParcelOne,Standard,2026-12-20,94.53,shipped,0.384,54.859,21.079,NOTICE,14.0
+NP023471,NJ,Beauty & Gift Sets,BlueLine Freight,Standard,2026-12-20,37.57,packed,0.537,37.771,20.267,EXPEDITE,9.0
+NP024373,TX,Electronics,ParcelOne,Express,2026-12-20,409.13,not allocated,0.135,149.239,20.082,NOTICE,20.0
+NP024240,TX,Toys,BlueLine Freight,Express,2026-12-20,229.4,not allocated,0.198,95.32,18.902,NOTICE,18.0
+NP024323,TX,Electronics,BlueLine Freight,Express,2026-12-20,321.37,not allocated,0.149,122.911,18.262,NOTICE,20.0
+NP022322,NJ,Electronics,Regional Express,Standard,2026-12-20,162.6,shipped,0.241,75.28,18.111,NOTICE,14.0
+NP024370,TX,Electronics,SwiftShip,Express,2026-12-20,303.33,not allocated,0.135,117.499,15.868,NOTICE,20.0
+NP024271,TX,Electronics,BlueLine Freight,Express,2026-12-20,206.62,not allocated,0.178,88.486,15.781,NOTICE,20.0
+NP024257,TX,Electronics,SwiftShip,Express,2026-12-20,202.08,not allocated,0.18,87.124,15.657,NOTICE,20.0
+NP024265,NJ,Electronics,SwiftShip,Express,2026-12-20,273.38,not allocated,0.14,108.514,15.16,NOTICE,20.0
+NP024407,NJ,Electronics,Regional Express,Express,2026-12-20,409.13,not allocated,0.091,149.239,13.606,NOTICE,20.0
+NP024495,NJ,Electronics,ParcelOne,Express,2026-12-20,745.74,not allocated,0.049,250.222,12.343,NOTICE,20.0
+NP024352,NJ,Electronics,ParcelOne,Express,2026-12-20,267.06,not allocated,0.107,106.618,11.358,NOTICE,20.0
+NP024326,TX,Electronics,BlueLine Freight,Express,2026-12-20,157.83,not allocated,0.148,73.849,10.948,NOTICE,20.0
+NP023427,TX,Electronics,Regional Express,Standard,2026-12-20,642.74,shipped,0.048,219.322,10.603,NOTICE,14.0
+NP022689,NJ,Toys,SwiftShip,Standard,2026-12-20,58.18,shipped,0.236,43.954,10.353,NOTICE,12.0
+NP024397,TX,Electronics,BlueLine Freight,Express,2026-12-20,162.6,not allocated,0.127,75.28,9.56,NOTICE,20.0
+NP024184,TX,Electronics,SwiftShip,Express,2026-12-20,745.74,allocated,0.038,250.222,9.424,NOTICE,14.0
+NP024105,NJ,Electronics,ParcelOne,Express,2026-12-20,964.11,allocated,0.029,315.733,9.299,NOTICE,14.0
+NP022173,NJ,Home & Kitchen,BlueLine Freight,Standard,2026-12-20,67.05,shipped,0.195,46.615,9.091,NOTICE,26.0
+NP024291,TX,Toys,BlueLine Freight,Express,2026-12-20,71.04,not allocated,0.184,47.812,8.793,NOTICE,18.0
+NP023105,NJ,Electronics,Regional Express,Standard,2026-12-20,442.47,shipped,0.052,159.241,8.334,NOTICE,14.0
+NP024404,NJ,Toys,BlueLine Freight,Express,2026-12-20,173.01,not allocated,0.101,78.403,7.929,NOTICE,18.0
+NP024487,TX,Electronics,Regional Express,Express,2026-12-20,642.74,packed,0.035,219.322,7.749,NOTICE,20.0
+NP024354,NJ,Beauty & Gift Sets,SwiftShip,Express,2026-12-20,281.04,not allocated,0.069,110.812,7.63,NOTICE,15.0
+NP024282,TX,Toys,Regional Express,Express,2026-12-20,32.42,not allocated,0.187,36.226,6.772,NOTICE,18.0
+NP024147,NJ,Electronics,ParcelOne,Express,2026-12-20,642.74,allocated,0.029,219.322,6.35,NOTICE,14.0
+NP024474,TX,Electronics,BlueLine Freight,Express,2026-12-20,325.2,packed,0.05,124.06,6.19,NOTICE,20.0
+NP024467,NJ,Electronics,ParcelOne,Express,2026-12-20,230.37,not allocated,0.065,95.611,6.172,NOTICE,20.0
+NP024436,TX,Beauty & Gift Sets,ParcelOne,Express,2026-12-20,187.36,not allocated,0.072,82.708,5.951,NOTICE,15.0
+NP024439,TX,Toys,BlueLine Freight,Express,2026-12-20,125.74,not allocated,0.092,64.222,5.938,NOTICE,18.0
+NP024482,TX,Toys,ParcelOne,Express,2026-12-20,115.34,not allocated,0.085,61.102,5.214,NOTICE,18.0
+NP022766,NJ,Toys,ParcelOne,Standard,2026-12-20,302.25,shipped,0.042,117.175,4.863,NOTICE,12.0
+NP024327,NJ,Toys,Regional Express,Express,2026-12-20,36.61,not allocated,0.125,37.483,4.67,NOTICE,18.0
+NP024046,NJ,Electronics,ParcelOne,Express,2026-12-20,355.44,allocated,0.035,133.132,4.636,NOTICE,14.0
+NP024497,NJ,Electronics,ParcelOne,Express,2026-12-20,206.62,not allocated,0.049,88.486,4.329,NOTICE,20.0
+NP024472,TX,Electronics,BlueLine Freight,Express,2026-12-20,194.75,packed,0.05,84.925,4.279,NOTICE,20.0
+NP024379,NJ,Toys,SwiftShip,Express,2026-12-20,40.41,not allocated,0.109,38.623,4.207,NOTICE,18.0
+NP024163,NJ,Electronics,ParcelOne,Express,2026-12-20,330.67,allocated,0.033,125.701,4.184,NOTICE,14.0
+NP024219,NJ,Electronics,SwiftShip,Express,2026-12-20,404.16,allocated,0.028,147.748,4.127,NOTICE,14.0
+NP024050,NJ,Electronics,ParcelOne,Express,2026-12-20,346.42,allocated,0.03,130.426,3.925,NOTICE,14.0
+NP024393,NJ,Toys,ParcelOne,Express,2026-12-20,34.98,not allocated,0.105,36.994,3.884,NOTICE,18.0
+NP024396,NJ,Home & Kitchen,SwiftShip,Express,2026-12-20,67.05,not allocated,0.081,46.615,3.776,NOTICE,32.0
+NP024154,NJ,Electronics,SwiftShip,Express,2026-12-20,309.93,allocated,0.029,119.479,3.455,NOTICE,14.0
+NP024417,NJ,Toys,ParcelOne,Express,2026-12-20,27.92,not allocated,0.097,34.876,3.388,NOTICE,18.0
+NP024153,TX,Electronics,SwiftShip,Express,2026-12-20,202.08,allocated,0.038,87.124,3.338,NOTICE,14.0
+NP024159,TX,Electronics,BlueLine Freight,Express,2026-12-20,202.08,allocated,0.038,87.124,3.334,NOTICE,14.0
+NP024435,NJ,Toys,SwiftShip,Express,2026-12-20,32.42,not allocated,0.09,36.226,3.253,NOTICE,18.0
+NP022646,NJ,Home & Kitchen,BlueLine Freight,Standard,2026-12-20,91.3,shipped,0.058,53.89,3.102,NOTICE,26.0
+NP022085,NJ,Apparel,BlueLine Freight,Standard,2026-12-20,111.78,shipped,0.052,60.034,3.098,NOTICE,9.0
+NP024290,NJ,Apparel,SwiftShip,Express,2026-12-20,36.53,not allocated,0.081,37.459,3.049,NOTICE,15.0
+NP024484,NJ,Home & Kitchen,ParcelOne,Express,2026-12-20,125.15,not allocated,0.047,64.045,3.035,NOTICE,32.0
+NP022445,NJ,Home & Kitchen,BlueLine Freight,Standard,2026-12-20,57.63,shipped,0.064,43.789,2.795,NOTICE,26.0
+NP024065,NJ,Electronics,SwiftShip,Express,2026-12-20,177.72,allocated,0.035,79.816,2.759,NOTICE,14.0
+NP024182,TX,Toys,SwiftShip,Express,2026-12-20,125.72,allocated,0.042,64.216,2.691,NOTICE,12.0
+NP023438,TX,Electronics,BlueLine Freight,Standard,2026-12-20,1118.61,shipped,0.007,362.083,2.649,NOTICE,14.0
+NP021433,TX,Toys,Regional Express,Standard,2026-12-20,32.42,shipped,0.07,36.226,2.519,NOTICE,12.0
+NP024112,NJ,Toys,BlueLine Freight,Express,2026-12-20,125.74,allocated,0.038,64.222,2.422,NOTICE,12.0
+NP024166,TX,Toys,BlueLine Freight,Express,2026-12-20,100.75,allocated,0.042,56.725,2.405,NOTICE,12.0
+NP024459,NJ,Beauty & Gift Sets,Regional Express,Express,2026-12-20,93.12,not allocated,0.044,54.436,2.38,NOTICE,15.0
+NP021731,TX,Electronics,BlueLine Freight,Standard,2026-12-20,642.74,shipped,0.011,219.322,2.337,NOTICE,14.0
+NP024249,TX,Toys,ParcelOne,Express,2026-12-20,100.18,allocated,0.04,56.554,2.286,NOTICE,12.0
+NP021872,TX,Electronics,BlueLine Freight,Standard,2026-12-20,534.12,shipped,0.012,186.736,2.222,NOTICE,14.0
+NP022394,TX,Electronics,BlueLine Freight,Standard,2026-12-20,534.12,shipped,0.011,186.736,2.118,NOTICE,14.0
+NP024048,TX,Beauty & Gift Sets,BlueLine Freight,Express,2026-12-20,93.12,allocated,0.038,54.436,2.067,NOTICE,9.0
+NP024476,NJ,Toys,ParcelOne,Express,2026-12-20,106.9,packed,0.034,58.57,1.99,NOTICE,18.0
+NP022114,NJ,Electronics,ParcelOne,Standard,2026-12-20,818.26,shipped,0.007,271.978,1.975,NOTICE,14.0
+NP024200,TX,Beauty & Gift Sets,SwiftShip,Express,2026-12-20,93.68,allocated,0.035,54.604,1.938,NOTICE,9.0
+NP022094,NJ,Electronics,SwiftShip,Standard,2026-12-20,818.26,shipped,0.007,271.978,1.938,NOTICE,14.0
+NP023466,NJ,Home & Kitchen,ParcelOne,Standard,2026-12-20,134.1,shipped,0.029,66.73,1.923,NOTICE,26.0
+NP024099,TX,Toys,SwiftShip,Express,2026-12-20,57.67,allocated,0.043,43.801,1.905,NOTICE,12.0
+NP024209,TX,Toys,ParcelOne,Express,2026-12-20,64.84,allocated,0.041,45.952,1.897,NOTICE,12.0
+NP024080,TX,Toys,BlueLine Freight,Express,2026-12-20,55.84,allocated,0.044,43.252,1.894,NOTICE,12.0
+NP022493,NJ,Electronics,SwiftShip,Standard,2026-12-20,964.11,shipped,0.006,315.733,1.879,NOTICE,14.0
+NP024176,NJ,Toys,Regional Express,Express,2026-12-20,106.9,allocated,0.032,58.57,1.862,NOTICE,12.0
+NP021981,TX,Electronics,BlueLine Freight,Standard,2026-12-20,642.74,shipped,0.008,219.322,1.84,NOTICE,14.0
+NP022058,TX,Apparel,SwiftShip,Standard,2026-12-20,62.07,shipped,0.04,45.121,1.791,NOTICE,9.0
+NP024097,NJ,Toys,ParcelOne,Express,2026-12-20,92.56,allocated,0.033,54.268,1.785,NOTICE,12.0
+NP024108,NJ,Toys,ParcelOne,Express,2026-12-20,62.87,allocated,0.038,45.361,1.714,NOTICE,12.0
+NP021406,TX,Electronics,ParcelOne,Standard,2026-12-20,330.67,shipped,0.014,125.701,1.711,NOTICE,14.0
+NP024059,TX,Toys,BlueLine Freight,Express,2026-12-20,40.41,allocated,0.044,38.623,1.707,NOTICE,12.0
+NP022015,TX,Electronics,Regional Express,Standard,2026-12-20,801.18,shipped,0.006,266.854,1.694,NOTICE,14.0
+NP024496,NJ,Beauty & Gift Sets,BlueLine Freight,Express,2026-12-20,93.12,not allocated,0.031,54.436,1.693,NOTICE,15.0

@@ -1,0 +1,9 @@
+carrier,window,loads_tendered,rejected,reject_rate,reject_ci_low,reject_ci_high,reject_rating
+BlueLine Freight,Peak (Nov 27-Dec 2),1128,276,0.2447,0.2205,0.2706,RED
+BlueLine Freight,Rest of season,4741,151,0.0318,0.0272,0.0372,GREEN
+ParcelOne,Peak (Nov 27-Dec 2),1914,193,0.1008,0.0881,0.1151,RED
+ParcelOne,Rest of season,7875,156,0.0198,0.017,0.0231,GREEN
+Regional Express,Peak (Nov 27-Dec 2),491,24,0.0489,0.0331,0.0717,GREEN
+Regional Express,Rest of season,2030,22,0.0108,0.0072,0.0164,GREEN
+SwiftShip,Peak (Nov 27-Dec 2),1413,151,0.1069,0.0918,0.1241,RED
+SwiftShip,Rest of season,5765,96,0.0167,0.0137,0.0203,GREEN

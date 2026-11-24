@@ -1,0 +1,6 @@
+period,orders,units_ordered,units_shipped,delivery_known,late_orders,not_otif,not_in_full,freight_per_unit,order_value,late_rate,late_ci_low,late_ci_high,late_rating,not_otif_rate,not_otif_ci_low,not_otif_ci_high,not_otif_rating,not_in_full_rate,not_in_full_ci_low,not_in_full_ci_high,not_in_full_rating,median_order_to_ship_hrs,unknown_deliveries,otif_best_case,otif_worst_case
+1 Pre-peak,9133,14314,14278,8928,250,285,36,9.92,1409762.0,0.028,0.0248,0.0316,GREEN,0.0319,0.0285,0.0358,GREEN,0.0039,0.0028,0.0055,GREEN,18.7,205,0.9688,0.9463
+2 Cyber Week,6287,9915,9866,6149,907,945,49,11.17,1152657.0,0.1475,0.1389,0.1566,RED,0.1537,0.1449,0.1629,RED,0.0078,0.0059,0.0103,GREEN,33.2,138,0.8497,0.8277
+3 December build,7658,12051,12024,7480,549,574,27,9.95,1114949.0,0.0734,0.0677,0.0795,RED,0.0767,0.0709,0.083,RED,0.0035,0.0024,0.0051,GREEN,20.6,178,0.925,0.9018
+4 Last-call week,2279,3539,3534,2225,115,118,5,10.12,329403.0,0.0517,0.0432,0.0617,AMBER,0.053,0.0445,0.0631,GREEN,0.0022,0.0009,0.0051,GREEN,18.5,54,0.9482,0.9245
+Season total,25357,39819,39702,24782,1821,1922,117,10.26,4006771.0,0.0735,0.0703,0.0768,RED,0.0776,0.0743,0.081,RED,0.0046,0.0039,0.0055,GREEN,21.8,575,0.9242,0.9015
