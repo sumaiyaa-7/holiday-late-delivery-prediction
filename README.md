@@ -1,5 +1,7 @@
 # Holiday Late-Delivery Prediction & Triage: Black Friday to Christmas
 
+![Run project](https://github.com/sumaiyaa-7/holiday-late-delivery-prediction/actions/workflows/run-project.yml/badge.svg)
+
 *Will it arrive by Christmas?* This project predicts which holiday orders will miss their promised delivery date, and decides whether each one is worth rushing, rerouting, or just a heads-up to the customer.
 
 The twist: every "arrives by Dec 20" on a product page is a promise, and a missed one costs money. So I treated each delivery promise the way a bank treats a loan: **expected loss = probability of default × loss given default × exposure**. Then I used that score to decide, each morning of the 2026 holiday peak, which orders to rescue, how, and which ones aren't worth the money.
